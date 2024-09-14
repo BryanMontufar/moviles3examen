@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "556366873927",
+    "project_id": "examenchat-2d228",
+    "storage_bucket": "examenchat-2d228.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556366873927:android:cea69e6a77161e5c317862",
+        "android_client_info": {
+          "package_name": "com.example.examenfi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCluF4ZvZII7Il7TsgHPDRiHu5tyH04LQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
